@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 
 const heroData = {
   greeting: "Hello!",
-  name: "Gaurav Sharma",
-  title: "A Fullstack Backend Developer",
+  name: "Shweta Sinha",
+  title: "A Fullstack Frontend Developer",
   buttons: [
     { label: "Hire me", href: "#", style: { backgroundColor: "#f5b700", color: "#000", fontWeight: 600, borderRadius: "50px", border: "none", padding: "12px 25px", marginRight: "10px" } },
     { label: "My works", href: "#", style: { backgroundColor: "transparent", color: "#fff", fontWeight: 600, border: "2px solid #fff", borderRadius: "50px", padding: "12px 25px" } },
@@ -13,12 +13,12 @@ const heroData = {
     heading: "About Me",
     description: "Always learning, always building — because great software starts with curiosity and persistence.",
     info: [
-      { label: "Name", value: "Gaurav Sharma" },
-      { label: "Date of birth", value: "August 11, 2002" },
+      { label: "Name", value: "Shweta Sinha" },
+      { label: "Date of birth", value: "December 22, 2003" },
       { label: "Address", value: "Gurgaon, Haryana" },
-      { label: "Zip code", value: "122001" },
-      { label: "Email", value: "aaravharithas@gmail.com" },
-      { label: "Phone", value: "+91-9321-666-720" },
+      { label: "Zip code", value: "122003" },
+      { label: "Email", value: "sinhashweta672@gmail.com" },
+      { label: "Phone", value: "8102280144" },
     ],
     cvLink: "#",
   },

@@ -59,7 +59,7 @@ function Navbar() {
           transition={{ duration: 0.5, ease: "easeOut" }}
           whileHover={{ scale: 1.1, color: "#f5b700" }}
         >
-          Gaurav
+          Shweta 
         </motion.a>
 
         {/* Hamburger Button */}

@@ -19,9 +19,9 @@ const footerData = {
   contact: {
     title: "Have a Questions?",
     items: [
-      { icon: GoLocation, text: "Gurgaon, Haryana 122001" },
-      { icon: HiOutlinePhone, text: "+91 9321 666 720", link: "tel://+919321666720" },
-      { icon: HiOutlineMail, text: "aaravharithas@gmail.com", link: "mailto:aaravharithas@gmail.com" },
+      { icon: GoLocation, text: "Gurgaon, Haryana 122003" },
+      { icon: HiOutlinePhone, text: "8102280144", link: "tel: 8102280144" },
+      { icon: HiOutlineMail, text: "sinhashweta@gmail.com", link: "mailto:sinhashweta@gmail.com" },
     ],
   },
   copyright: {

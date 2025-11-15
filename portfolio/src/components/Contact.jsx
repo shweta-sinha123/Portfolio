@@ -9,10 +9,10 @@ const contactData = {
     description: "Feel free to contact me on these details",
   },
   items: [
-    { icon: "icon-map-signs", title: "Address", text: "Gurgaon, Haryana 122001" },
-    { icon: "icon-phone2", title: "Contact Number", text: "+91 9321 666 720", link: "tel://+919321666720" },
-    { icon: "icon-paper-plane", title: "Email Address", text: "aaravharithas@gmail.com", link: "mailto:aaravharithas@gmail.com" },
-    { icon: "icon-globe", title: "LinkedIn", text: "Gaurav Sharma", link: "https://www.linkedin.com/in/aaravharithas/" },
+    { icon: "icon-map-signs", title: "Address", text: "Gurgaon, Haryana 122003" },
+    { icon: "icon-phone2", title: "Contact Number", text: "8102280144", link: "tel://+919321666720" },
+    { icon: "icon-paper-plane", title: "Email Address", text: "sinhashweta672@gmail.com", link: "sinhashweta672@gmail.com" },
+    { icon: "icon-globe", title: "LinkedIn", text: "Shweta Sinha", link: "https://www.linkedin.com/in/shwetasinha0091" },
   ],
 };
 
