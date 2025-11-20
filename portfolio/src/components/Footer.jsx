@@ -21,12 +21,12 @@ const footerData = {
     items: [
       { icon: GoLocation, text: "Gurgaon, Haryana 122003" },
       { icon: HiOutlinePhone, text: "8102280144", link: "tel: 8102280144" },
-      { icon: HiOutlineMail, text: "sinhashweta@gmail.com", link: "mailto:sinhashweta@gmail.com" },
+      { icon: HiOutlineMail, text: "sinhashweta672@gmail.com", link: "mailto:sinhashweta672@gmail.com" },
     ],
   },
   copyright: {
-    text: "Shoutout to whose template I copied | made with",
-    author: "Colorlib",
+    text: "All rights reserved",
+    author: "Shweta",
     authorLink: "https://colorlib.com",
   },
 };

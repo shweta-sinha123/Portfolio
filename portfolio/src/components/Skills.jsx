@@ -8,14 +8,14 @@ const skillsData = {
       "Here you will find more information about my current skills mostly in terms of programming and technology",
   },
   skills: [
-    { name: "Python", value: 60, color: "color-1" },
-    { name: "Javascript", value: 30, color: "color-2" },
-    { name: "Photoshop", value: 90, color: "color-3" },
-    { name: "jQuery", value: 85, color: "color-4" },
-    { name: "HTML5", value: 95, color: "color-5" },
-    { name: "CSS3", value: 90, color: "color-6" },
-    { name: "WordPress", value: 70, color: "color-1" },
-    { name: "SEO", value: 80, color: "color-2" },
+    { name: "HTML 5", value: 95, color: "color-1" },
+    { name: "CSS 3", value: 95, color: "color-2" },
+    { name: "JAVASCRIPT", value: 85, color: "color-3" },
+    { name: "REACT JS", value: 85, color: "color-4" },
+    { name: "PYTHON", value: 80, color: "color-5" },
+    { name: "SQL", value: 80, color: "color-6" },
+    { name: "MONGODB", value: 90, color: "color-1" },
+    { name: "DJANGO", value: 80, color: "color-2" },
   ],
 };
 
